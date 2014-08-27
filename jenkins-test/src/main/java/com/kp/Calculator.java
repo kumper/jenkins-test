@@ -6,7 +6,7 @@ public class Calculator {
 	}
 	
 	/**
-	 * Subtract comment.
+	 * This is a comment for subtract.
 	 * 
 	 * @param a
 	 * @param b
