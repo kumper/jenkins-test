@@ -6,6 +6,13 @@ public class Calculator {
 		return a + b;
 	}
 	
+	/**
+	 * Subtracting.
+	 * 
+	 * @param a
+	 * @param b
+	 * @return
+	 */
 	public int substract(int a, int b) {
 		return a - b;
 	}
